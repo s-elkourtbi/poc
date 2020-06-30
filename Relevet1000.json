@@ -1,0 +1,16 @@
+[ {
+  "idMovement" : 1000,
+  "amount" : 200.0,
+  "date" : 1592949600000,
+  "movementEnum" : "DEPOT"
+}, {
+  "idMovement" : 2000,
+  "amount" : 250.0,
+  "date" : 1593036000000,
+  "movementEnum" : "DEPOT"
+}, {
+  "idMovement" : 3000,
+  "amount" : 400.0,
+  "date" : 1590012000000,
+  "movementEnum" : "RETRAIT"
+} ]
